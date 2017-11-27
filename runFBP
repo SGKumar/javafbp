@@ -1,0 +1,1 @@
+java -cp build/libs/javafbp-master-4.1.0.jar com.jpaulmorrison.fbp.resourcekit.examples.networks.$1
